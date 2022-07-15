@@ -1,0 +1,23 @@
+* Variable:
+Una variable es la manera de poder almacenar datos o elementos de diferentes tipos, en JavaScript se emplea como variable o palabra clave para almacenar datos var, let, const .
+
+*Strings:
+String son bloques de texto que siempre irán entre comillas, por lo que cualquier texto entre comillas simples o dobles es una String o cadena.
+
+*Fuciones (argumentos, return):
+Las funciones son muy importantes en cualquier lenguaje de programación y aún mas en JavaScript; las funciones son tipos particulares de objetos por lo que tienen las mismas propiedades.
+Existen 3 tipos de funciones en JavaScript.
+
+Argumentos: 
+Si agregamos una variable en los parentesis cuando declaramos una fucion, podemos utilizar esa variable o argumento dentro de nuestra funcion.
+
+Return:
+Es la manera de que los datos escapen de una funcion, solamente se puede acceder a lo que se devuelve fuera de la funcion.
+Cuando una funcion llega a la linea y lee el return, la funcion se detiene inmediatamente y devuelve lo especifico.
+
+*Declaraciones if:
+If es una palabra clave, la cual es una Estructura Condicional.
+
+*Valores booleanos:
+Los tipos de datos booleanos son operadores de control de flujo y es la manera de que nuestra fucion verifique si algo es 
+True y False.
