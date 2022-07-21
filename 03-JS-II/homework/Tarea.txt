@@ -1,0 +1,13 @@
+*For: 
+El for es una estructura repetitiva, en la que la mayoria de los software se ejecutan bucles for. Dentro del parentesis 
+tendremos una variable la cual marca por donde comienza nuestra estructura, ademas tendremos la estructura que marca la 
+condición a cumplir y de parada de nuestro bucle for, y por tercero y ultimo tenemos el incremento para poder recorrer.
+
+*&&, ||, !
+Estos símbolos son operadores lógicos y cual cada uno tiene una fución específica, las cuales podemos ver en la tabla de
+la verdad.
+-&& : El significado de este simbolo es "Y", para ejecutarse debe cumplir que ambas condiciones sean True, si alguna de 
+las condiciones es False no se ejecuta y si las ambas son False tampoco se ejecuta.
+-|| : El significado de este simbolo es "O", para ejecutarse debe cumplir que una de las condiciones sean True sin importar 
+que la otra condicion sea False y si ambas son False no se ejecuta.
+-! : El significado de este simbolo es "No", significa lo contrario de la condicion que este evaluando.
