@@ -1,0 +1,3 @@
+*Arrays:
+Los Arrays es una de las manera de poder almacenar datos de diferentes tipos, tales como: numeros, string/cadena, booleano,
+null, undefined. Se pueden almacenar de manera continua y no continua.
