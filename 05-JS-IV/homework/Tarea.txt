@@ -1,0 +1,28 @@
+*Objetos: 
+-Los objetos son contenedores de datos que pueden almacenar mucha información sobre algo.
+-Se instancian usando {}, las cuales contienen en su interior (Propiedades: Valor).
+-Los objetos pueden almacenar cualquier tipo de dato.
+
+
+*Propiedades:
+-A las Propiedades se acceden por el nombre (obj.propiedad ó obj[propiedad]), pueden ser de cualquier tipo de dato.
+
+
+*Métodos:
+-Las funciones guardadas en un objeto se denominan métodos.
+-Se puede establecer una clave o propiedad para un nombre y el valor para una funcion.
+-La manera de llamar al metodo es ( obj.propiedad() ó obj[propiedad]() ).
+
+
+*Bucle for...in:
+-El Bucle for...in es el bucle que JavaScript tiene previsto para acceder y recorrer objetos. 
+-La sintaxis es for(let i in obj){ };
+-Recorre cada clave o propiedad hasta que haya iterado todas las propiedades del objeto.
+
+
+*Notación de puntos vs notación de corchetes:
+-En JavaScript podemos acceder a las propiedades y metodos de un objeto usando cualquiera de las dos notaciones.
+-La diferencia es que utilizando corchetes se puede acceder a propiedades que tienen un espacio o 
+   caracter no permitido en la notación de punto (ejemplo: (miGato.numero de amigo) no es valido, pero 
+   (miGato['numero de amigo']) si lo es).
+
