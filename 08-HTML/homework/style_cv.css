@@ -1,0 +1,26 @@
+header {
+	float: left;
+	padding-left: 20px;	
+	
+}
+header h1 {
+	color: white;
+	text-transform: uppercase;
+}
+h1 {
+	text-align: right;
+}
+.head {
+	width: 100%;
+	background-color: #6a5acd;
+	height: 75px;
+}
+
+#img {
+	border-style: solid;
+}
+
+.main {
+	margin-left: 20px;	
+}
+
