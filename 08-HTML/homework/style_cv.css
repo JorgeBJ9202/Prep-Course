@@ -7,9 +7,6 @@ header h1 {
 	color: white;
 	text-transform: uppercase;
 }
-h1 {
-	text-align: right;
-}
 .head {
 	width: 100%;
 	background-color: #6a5acd;
